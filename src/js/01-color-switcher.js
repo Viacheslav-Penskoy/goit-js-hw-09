@@ -16,7 +16,7 @@ buttonStart.addEventListener('click', () => {
 
   timerId = setInterval(() => {
     document.body.style.background = getRandomHexColor();
-  }, 2000);
+  }, 1000);
 });
 
 buttonStop.addEventListener('click', () => {

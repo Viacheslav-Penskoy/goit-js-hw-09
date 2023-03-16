@@ -15,8 +15,7 @@ body {
 #datetime-picker {
   box-sizing: border-box;
   font-size: large;
-  font-weight: bold;
-  font-size: large;
+
 }
 
 button {
@@ -41,11 +40,10 @@ img {
 }
 
 .value {
-  font-size: xxx-large;
+  font-size: xx-large;
 }
 
 .label {
-  font-weight: bold;
   text-transform: uppercase;
 }
 

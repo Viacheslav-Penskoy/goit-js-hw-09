@@ -43,3 +43,7 @@ img {
   font-size: xx-large;
 }
 
+.label {
+  text-transform: none;
+}
+

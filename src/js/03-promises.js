@@ -1,4 +1,4 @@
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
+import Notiflix from 'notiflix';
 
 const delay = document.querySelector('input[name="delay"]');
 const step = document.querySelector('input[name="step"]');
